@@ -147,6 +147,10 @@ body.dark-theme{
   background-color: var(--body-color);
 }
 
+.dark-theme .certs__card:hover{
+  background-color: var(--container-color);
+}
+
 .dark-theme :is(.contact__mail, .contact__input, .contact__label){
   background-color: var(--container-color);
 }
