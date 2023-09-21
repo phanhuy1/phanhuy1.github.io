@@ -1527,6 +1527,9 @@ body.dark-theme{
     top: 4.5rem;
 
   }
+  .about__item{
+    margin-bottom: 5px;  
+  }
 
   .about__line{
     width: 80px;
